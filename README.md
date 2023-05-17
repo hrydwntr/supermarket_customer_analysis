@@ -16,4 +16,4 @@ Berdasarkan dari hasil analisis data pelanggan perusahan tahun 2012-2014, maka d
 
 ---
 Link Tableau
-https://public.tableau.com/app/profile/haryo.dewantoro/viz/Book1_16842818228310/SupermarketCustomer?publish=yes
+https://public.tableau.com/app/profile/haryo.dewantoro/viz/SupermarketCustomer/SupermarketCustomer?publish=yes
