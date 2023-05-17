@@ -13,3 +13,7 @@ Berdasarkan dari hasil analisis data pelanggan perusahan tahun 2012-2014, maka d
 - tolak ukur dari grafis ini adalah **Baby boomer** dengan karakter yang sangat unik maka dari itu cara dari campaign berikutnya akan kami ubah sesuai dengan cara berfikir dan sifat generasi baby boomer dengan mencoba menggunakan platform lebih tradisional untuk respon campaign, salah satunya dengan menggunakan kupon dan sebagainya sehingga generasi ini dapat mengikuti.
 - untuk rekomendasi berikutnya kita perlu memastikan bahwa campaign yang diterima yaitu dengan orangnya langsung tampa adanya libatan dari orang lain atau pasanganya.
 - dengan mengedukasi kembali golongan yang status pendapatannya dari middle sampai dengan lower middle class untuk merespon sebuah campaign dan memberikan benefit lebih terkait golongan ini, jika merespon sebuah campaign dengan salah satunya adalah diberikan merchandise atau yang sifatnya sama.
+
+---
+Link Tableau
+https://public.tableau.com/app/profile/haryo.dewantoro/viz/SupermarketCustomer/SupermarketCustomer?publish=yes
