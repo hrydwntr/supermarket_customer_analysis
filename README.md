@@ -9,8 +9,8 @@ Perusahaan retail memiliki fungsi untuk menyediakan kebutuhan masyarakat dengan 
 
 Berdasarkan dari hasil analisis data pelanggan perusahan tahun 2012-2014, maka dapat menjawab pertanyaan Tim Retail Market yaitu:
 
-- agar tidak terjadi hal yang sama di tahun berikutnya atau di tahun sedang di analisis saat ini akan disediakan campaign yang menarik dari tahun sebelumnya dan menarik minat kembali customer yang selisih registrasinya lebih dari 2 bulan & 3 bulan keatas.
-- tolak ukur dari grafis ini adalah **Baby boomer** dengan karakter yang sangat unik maka dari itu cara dari campaign berikutnya akan kami ubah sesuai dengan cara berfikir dan sifat generasi baby boomer dengan mencoba menggunakan platform lebih tradisional untuk respon Campaign, salah satunya dengan menggunakan kupon dan yang bersifat sama sehingga generasi ini dapat mengikuti.
+- agar tidak terjadi hal yang sama di tahun berikutnya atau di tahun sedang di analisis, saat ini akan disediakan Campaign yang menarik dari tahun sebelumnya dan menarik minat kembali customer yang selisih registrasinya lebih dari 2 bulan & 3 bulan keatas.
+- tolak ukur dari grafis ini adalah **Baby boomer** dengan karakter yang sangat unik, maka dari itu cara dari campaign berikutnya akan kami ubah sesuai dengan cara berfikir dan sifat generasi baby boomer dengan mencoba menggunakan platform lebih tradisional untuk respon Campaign, salah satunya dengan menggunakan kupon dan yang bersifat sama sehingga generasi ini dapat mengikuti.
 - untuk rekomendasi berikutnya kita perlu memastikan bahwa Campaign yang diterima yaitu dengan orangnya langsung tampa adanya libatan dari orang lain atau pasanganya.
 - dengan mengedukasi kembali golongan yang status pendapatannya dari middle sampai dengan lower middle class untuk merespon sebuah Campaign dan memberikan benefit lebih terkait golongan ini, jika merespon sebuah Campaign dengan salah satunya adalah diberikan merchandise atau yang sifatnya sama.
 
