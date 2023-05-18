@@ -1,6 +1,6 @@
 # supermarket_customer_analysis
 
-Perusahaan retail memiliki fungsi untuk menyediakan kebutuhan masyarakat dengan menjual produk sesuai dengan kebutuhan dan minat konsumen. Salah satu faktor keberhasilan perusahaan retail yaitu dengan memiliki strategi yang tepat. Pada awal tahun 2015 ini, Tim Retail Market membutuhkan analisis dari data pelanggan tahun 2012-2014, untuk menyusun stategi pemasaran untuk setahun ke depan agar dapat meningkatkan profit perusahaan. Analisis yang diperlukan oleh Tim Retail Market yaitu:
+Perusahaan retail memiliki fungsi untuk menyediakan kebutuhan masyarakat dengan menjual produk sesuai dengan kebutuhan dan minat konsumen. Salah satu faktor keberhasilan perusahaan retail yaitu dengan memiliki strategi yang tepat. Pada awal tahun 2015 ini, Tim Retail Market membutuhkan analisis dari data pelanggan tahun 2012-2014, untuk menyusun stategi pemasaran untuk satu tahun ke depan agar dapat meningkatkan profit perusahaan. Analisis yang diperlukan oleh Tim Retail Market yaitu:
 
 - Bagaimana tren jumlah Campaign yang diberikan dengan Respon yang diterima setiap bulan dari tahun 2012 sampai dengan 2014.
 - Karakteristik Generasi dalam merespon sebuah Campaign
